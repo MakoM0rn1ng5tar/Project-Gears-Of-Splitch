@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class HelloSplitch : MonoBehaviour {
 
-	//Hello Splitch file, testing git!!!!!
+	//Hello Splitch file, testing git!!
 }
